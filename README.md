@@ -11,4 +11,8 @@ function urlGenerator(domain) {
         return `https://${url}.${domain}`
     }
 }
+
+const comUrl = urlGenerator('com')
+const ruUrl = urlGenerator('ru')
+
 ```
