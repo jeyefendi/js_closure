@@ -3,7 +3,7 @@
 That is a function inside another function
 
 # CASE 
-Create the function which generate url
+Create the function which generate URL
 
 ```
 function urlGenerator(domain) {
