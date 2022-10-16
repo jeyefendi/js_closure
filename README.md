@@ -1,2 +1,14 @@
 # What is Closure? How does it work?
-> that is a function inside another function
+
+That is a function inside another function
+
+# CASE 
+Create the function which generate url
+
+```
+function urlGenerator(domain) {
+    return function(url) {
+        return `https://${url}.${domain}`
+    }
+}
+```
