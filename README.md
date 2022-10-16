@@ -1,2 +1,1 @@
-# js_closure
-What is Closure? How does it work?
+# What is Closure? How does it work?
